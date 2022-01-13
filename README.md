@@ -28,7 +28,7 @@
 
 <h1 align="center">TO HOST  A N I E B O T LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/Anieteam/Aniebots">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/PYTHON-LOVER-PHUZZ/Aniebots">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃  ⚡</a></h2>
 
 ## Mandatory Vars
 
