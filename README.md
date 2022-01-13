@@ -1,4 +1,4 @@
-<h1 align="center">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃 ⚡</h1>
+<h1 align="center">⚡ HongZz-Userbot ⚡</h1>
 
 [![Aniebots logo](https://telegra.ph/file/28c979a7a36c344da3e07.jpg)](https://t.me/Aniebotsupports)
 
@@ -28,7 +28,7 @@
 
 <h1 align="center">TO HOST  A N I E B O T LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/Anieteam/Aniebots">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/PYTHON-LOVER-PHUZZ/Aniebots">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃  ⚡</a></h2>
 
 ## Mandatory Vars
 
@@ -71,7 +71,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 d3nvil 
 
-Poject [Aniebot](https://github.com/Anieteam/Aniebots) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
+Poject [Aniebot](https://github.com/PYTHON-LOVER-PHUZZ/Aniebots) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
 
 
 
