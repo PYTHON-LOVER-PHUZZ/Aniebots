@@ -1,5 +1,5 @@
 {
-  "name": "🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃",
+  "name": "XNXX-USERBOT",
   "description": "The Aniebot made by @PENGZ16899Z special thanks to respective anon owner @PENGZ16899Z. Join for updates related info @URMOM",
   "logo": "https://telegra.ph/file/28c979a7a36c344da3e07.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .Aniebot Command.",
-      "value": "😈HONGZZ IS ALIVE😈",
+      "value": "😈XNXX IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,7 +44,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO HONGZZBOT😈",
+      "value": "😈LEGEND'S SAY'S TO XNXXBOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
